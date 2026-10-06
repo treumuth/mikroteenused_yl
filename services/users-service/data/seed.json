@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "usr-001",
+      "email": "mari@example.ee",
+      "displayName": "Mari Maasikas",
+      "active": true,
+      "memberSince": "2024-01-15"
+    },
+    {
+      "id": "usr-002",
+      "email": "jaak@example.ee",
+      "displayName": "Jaak Jõgi",
+      "active": true,
+      "memberSince": "2023-11-02"
+    },
+    {
+      "id": "usr-003",
+      "email": "inactive@example.ee",
+      "displayName": "Peatatud Konto",
+      "active": false,
+      "memberSince": "2022-05-20"
+    },
+    {
+      "id": "usr-004",
+      "email": "liis@example.ee",
+      "displayName": "Liis Lepp",
+      "active": true,
+      "memberSince": "2025-03-01"
+    }
+  ]
+}

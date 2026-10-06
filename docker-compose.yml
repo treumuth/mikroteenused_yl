@@ -1,0 +1,98 @@
+services:
+  users-service:
+    build:
+      context: .
+      dockerfile: services/users-service/Dockerfile
+    environment:
+      PORT: 3001
+      LOG_LEVEL: info
+    ports:
+      - "3001:3001"
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://127.0.0.1:3001/health"]
+      interval: 10s
+      timeout: 3s
+      retries: 5
+
+  catalog-service:
+    build:
+      context: .
+      dockerfile: services/catalog-service/Dockerfile
+    environment:
+      PORT: 3002
+      LOG_LEVEL: info
+    ports:
+      - "3002:3002"
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://127.0.0.1:3002/health"]
+      interval: 10s
+      timeout: 3s
+      retries: 5
+
+  orders-service:
+    build:
+      context: .
+      dockerfile: services/orders-service/Dockerfile
+    environment:
+      PORT: 3003
+      LOG_LEVEL: info
+      USERS_SERVICE_URL: http://users-service:3001
+      CATALOG_SERVICE_URL: http://catalog-service:3002
+      NOTIFICATIONS_SERVICE_URL: http://notifications-service:3004
+    ports:
+      - "3003:3003"
+    depends_on:
+      users-service:
+        condition: service_healthy
+      catalog-service:
+        condition: service_healthy
+      notifications-service:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://127.0.0.1:3003/health"]
+      interval: 10s
+      timeout: 3s
+      retries: 5
+
+  notifications-service:
+    build:
+      context: .
+      dockerfile: services/notifications-service/Dockerfile
+    environment:
+      PORT: 3004
+      LOG_LEVEL: info
+    ports:
+      - "3004:3004"
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://127.0.0.1:3004/health"]
+      interval: 10s
+      timeout: 3s
+      retries: 5
+
+  api-gateway:
+    build:
+      context: .
+      dockerfile: services/api-gateway/Dockerfile
+    environment:
+      PORT: 8080
+      LOG_LEVEL: info
+      USERS_SERVICE_URL: http://users-service:3001
+      CATALOG_SERVICE_URL: http://catalog-service:3002
+      ORDERS_SERVICE_URL: http://orders-service:3003
+      NOTIFICATIONS_SERVICE_URL: http://notifications-service:3004
+    ports:
+      - "8080:8080"
+    depends_on:
+      users-service:
+        condition: service_healthy
+      catalog-service:
+        condition: service_healthy
+      orders-service:
+        condition: service_healthy
+      notifications-service:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://127.0.0.1:8080/health"]
+      interval: 10s
+      timeout: 3s
+      retries: 5

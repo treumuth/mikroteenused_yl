@@ -1,0 +1,1804 @@
+{
+  "books": [
+    {
+      "id": "book-ext-001",
+      "isbn": "978-9985-9-1001",
+      "title": "Raamat nr 1 — mikroteenuste näidis",
+      "author": "Peeter Puusepp",
+      "priceCents": 1009,
+      "stock": 1,
+      "category": "loodus",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 1. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-002",
+      "isbn": "978-9985-9-1002",
+      "title": "Raamat nr 2 — mikroteenuste näidis",
+      "author": "Mart Mets",
+      "priceCents": 1019,
+      "stock": 2,
+      "category": "devops",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 2. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-003",
+      "isbn": "978-9985-9-1003",
+      "title": "Raamat nr 3 — mikroteenuste näidis",
+      "author": "Kati Kuusk",
+      "priceCents": 1029,
+      "stock": 3,
+      "category": "ajalugu",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 3. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-004",
+      "isbn": "978-9985-9-1004",
+      "title": "Raamat nr 4 — mikroteenuste näidis",
+      "author": "Liis Lepp",
+      "priceCents": 1039,
+      "stock": 4,
+      "category": "fantaasia",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 4. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-005",
+      "isbn": "978-9985-9-1005",
+      "title": "Raamat nr 5 — mikroteenuste näidis",
+      "author": "Anna Kask",
+      "priceCents": 1049,
+      "stock": 5,
+      "category": "programmeerimine",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 5. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-006",
+      "isbn": "978-9985-9-1006",
+      "title": "Raamat nr 6 — mikroteenuste näidis",
+      "author": "Peeter Puusepp",
+      "priceCents": 1059,
+      "stock": 6,
+      "category": "loodus",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 6. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-007",
+      "isbn": "978-9985-9-1007",
+      "title": "Raamat nr 7 — mikroteenuste näidis",
+      "author": "Mart Mets",
+      "priceCents": 1069,
+      "stock": 0,
+      "category": "devops",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 7. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-008",
+      "isbn": "978-9985-9-1008",
+      "title": "Raamat nr 8 — mikroteenuste näidis",
+      "author": "Kati Kuusk",
+      "priceCents": 1079,
+      "stock": 1,
+      "category": "ajalugu",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 8. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-009",
+      "isbn": "978-9985-9-1009",
+      "title": "Raamat nr 9 — mikroteenuste näidis",
+      "author": "Liis Lepp",
+      "priceCents": 1089,
+      "stock": 2,
+      "category": "fantaasia",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 9. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-010",
+      "isbn": "978-9985-9-1010",
+      "title": "Raamat nr 10 — mikroteenuste näidis",
+      "author": "Anna Kask",
+      "priceCents": 1099,
+      "stock": 3,
+      "category": "programmeerimine",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 10. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-011",
+      "isbn": "978-9985-9-1011",
+      "title": "Raamat nr 11 — mikroteenuste näidis",
+      "author": "Peeter Puusepp",
+      "priceCents": 1109,
+      "stock": 4,
+      "category": "loodus",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 11. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-012",
+      "isbn": "978-9985-9-1012",
+      "title": "Raamat nr 12 — mikroteenuste näidis",
+      "author": "Mart Mets",
+      "priceCents": 1119,
+      "stock": 5,
+      "category": "devops",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 12. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-013",
+      "isbn": "978-9985-9-1013",
+      "title": "Raamat nr 13 — mikroteenuste näidis",
+      "author": "Kati Kuusk",
+      "priceCents": 1129,
+      "stock": 6,
+      "category": "ajalugu",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 13. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-014",
+      "isbn": "978-9985-9-1014",
+      "title": "Raamat nr 14 — mikroteenuste näidis",
+      "author": "Liis Lepp",
+      "priceCents": 1139,
+      "stock": 0,
+      "category": "fantaasia",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 14. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-015",
+      "isbn": "978-9985-9-1015",
+      "title": "Raamat nr 15 — mikroteenuste näidis",
+      "author": "Anna Kask",
+      "priceCents": 1149,
+      "stock": 1,
+      "category": "programmeerimine",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 15. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-016",
+      "isbn": "978-9985-9-1016",
+      "title": "Raamat nr 16 — mikroteenuste näidis",
+      "author": "Peeter Puusepp",
+      "priceCents": 1159,
+      "stock": 2,
+      "category": "loodus",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 16. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-017",
+      "isbn": "978-9985-9-1017",
+      "title": "Raamat nr 17 — mikroteenuste näidis",
+      "author": "Mart Mets",
+      "priceCents": 1169,
+      "stock": 3,
+      "category": "devops",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 17. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-018",
+      "isbn": "978-9985-9-1018",
+      "title": "Raamat nr 18 — mikroteenuste näidis",
+      "author": "Kati Kuusk",
+      "priceCents": 1179,
+      "stock": 4,
+      "category": "ajalugu",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 18. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-019",
+      "isbn": "978-9985-9-1019",
+      "title": "Raamat nr 19 — mikroteenuste näidis",
+      "author": "Liis Lepp",
+      "priceCents": 1189,
+      "stock": 5,
+      "category": "fantaasia",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 19. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-020",
+      "isbn": "978-9985-9-1020",
+      "title": "Raamat nr 20 — mikroteenuste näidis",
+      "author": "Anna Kask",
+      "priceCents": 1199,
+      "stock": 6,
+      "category": "programmeerimine",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 20. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-021",
+      "isbn": "978-9985-9-1021",
+      "title": "Raamat nr 21 — mikroteenuste näidis",
+      "author": "Peeter Puusepp",
+      "priceCents": 1209,
+      "stock": 0,
+      "category": "loodus",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 21. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-022",
+      "isbn": "978-9985-9-1022",
+      "title": "Raamat nr 22 — mikroteenuste näidis",
+      "author": "Mart Mets",
+      "priceCents": 1219,
+      "stock": 1,
+      "category": "devops",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 22. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-023",
+      "isbn": "978-9985-9-1023",
+      "title": "Raamat nr 23 — mikroteenuste näidis",
+      "author": "Kati Kuusk",
+      "priceCents": 1229,
+      "stock": 2,
+      "category": "ajalugu",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 23. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-024",
+      "isbn": "978-9985-9-1024",
+      "title": "Raamat nr 24 — mikroteenuste näidis",
+      "author": "Liis Lepp",
+      "priceCents": 1239,
+      "stock": 3,
+      "category": "fantaasia",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 24. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-025",
+      "isbn": "978-9985-9-1025",
+      "title": "Raamat nr 25 — mikroteenuste näidis",
+      "author": "Anna Kask",
+      "priceCents": 1249,
+      "stock": 4,
+      "category": "programmeerimine",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 25. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-026",
+      "isbn": "978-9985-9-1026",
+      "title": "Raamat nr 26 — mikroteenuste näidis",
+      "author": "Peeter Puusepp",
+      "priceCents": 1259,
+      "stock": 5,
+      "category": "loodus",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 26. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-027",
+      "isbn": "978-9985-9-1027",
+      "title": "Raamat nr 27 — mikroteenuste näidis",
+      "author": "Mart Mets",
+      "priceCents": 1269,
+      "stock": 6,
+      "category": "devops",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 27. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-028",
+      "isbn": "978-9985-9-1028",
+      "title": "Raamat nr 28 — mikroteenuste näidis",
+      "author": "Kati Kuusk",
+      "priceCents": 1279,
+      "stock": 0,
+      "category": "ajalugu",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 28. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-029",
+      "isbn": "978-9985-9-1029",
+      "title": "Raamat nr 29 — mikroteenuste näidis",
+      "author": "Liis Lepp",
+      "priceCents": 1289,
+      "stock": 1,
+      "category": "fantaasia",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 29. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-030",
+      "isbn": "978-9985-9-1030",
+      "title": "Raamat nr 30 — mikroteenuste näidis",
+      "author": "Anna Kask",
+      "priceCents": 1299,
+      "stock": 2,
+      "category": "programmeerimine",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 30. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-031",
+      "isbn": "978-9985-9-1031",
+      "title": "Raamat nr 31 — mikroteenuste näidis",
+      "author": "Peeter Puusepp",
+      "priceCents": 1309,
+      "stock": 3,
+      "category": "loodus",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 31. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-032",
+      "isbn": "978-9985-9-1032",
+      "title": "Raamat nr 32 — mikroteenuste näidis",
+      "author": "Mart Mets",
+      "priceCents": 1319,
+      "stock": 4,
+      "category": "devops",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 32. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-033",
+      "isbn": "978-9985-9-1033",
+      "title": "Raamat nr 33 — mikroteenuste näidis",
+      "author": "Kati Kuusk",
+      "priceCents": 1329,
+      "stock": 5,
+      "category": "ajalugu",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 33. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-034",
+      "isbn": "978-9985-9-1034",
+      "title": "Raamat nr 34 — mikroteenuste näidis",
+      "author": "Liis Lepp",
+      "priceCents": 1339,
+      "stock": 6,
+      "category": "fantaasia",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 34. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-035",
+      "isbn": "978-9985-9-1035",
+      "title": "Raamat nr 35 — mikroteenuste näidis",
+      "author": "Anna Kask",
+      "priceCents": 1349,
+      "stock": 0,
+      "category": "programmeerimine",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 35. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-036",
+      "isbn": "978-9985-9-1036",
+      "title": "Raamat nr 36 — mikroteenuste näidis",
+      "author": "Peeter Puusepp",
+      "priceCents": 1359,
+      "stock": 1,
+      "category": "loodus",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 36. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-037",
+      "isbn": "978-9985-9-1037",
+      "title": "Raamat nr 37 — mikroteenuste näidis",
+      "author": "Mart Mets",
+      "priceCents": 1369,
+      "stock": 2,
+      "category": "devops",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 37. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-038",
+      "isbn": "978-9985-9-1038",
+      "title": "Raamat nr 38 — mikroteenuste näidis",
+      "author": "Kati Kuusk",
+      "priceCents": 1379,
+      "stock": 3,
+      "category": "ajalugu",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 38. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-039",
+      "isbn": "978-9985-9-1039",
+      "title": "Raamat nr 39 — mikroteenuste näidis",
+      "author": "Liis Lepp",
+      "priceCents": 1389,
+      "stock": 4,
+      "category": "fantaasia",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 39. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-040",
+      "isbn": "978-9985-9-1040",
+      "title": "Raamat nr 40 — mikroteenuste näidis",
+      "author": "Anna Kask",
+      "priceCents": 1399,
+      "stock": 5,
+      "category": "programmeerimine",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 40. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-041",
+      "isbn": "978-9985-9-1041",
+      "title": "Raamat nr 41 — mikroteenuste näidis",
+      "author": "Peeter Puusepp",
+      "priceCents": 1409,
+      "stock": 6,
+      "category": "loodus",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 41. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-042",
+      "isbn": "978-9985-9-1042",
+      "title": "Raamat nr 42 — mikroteenuste näidis",
+      "author": "Mart Mets",
+      "priceCents": 1419,
+      "stock": 0,
+      "category": "devops",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 42. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-043",
+      "isbn": "978-9985-9-1043",
+      "title": "Raamat nr 43 — mikroteenuste näidis",
+      "author": "Kati Kuusk",
+      "priceCents": 1429,
+      "stock": 1,
+      "category": "ajalugu",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 43. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-044",
+      "isbn": "978-9985-9-1044",
+      "title": "Raamat nr 44 — mikroteenuste näidis",
+      "author": "Liis Lepp",
+      "priceCents": 1439,
+      "stock": 2,
+      "category": "fantaasia",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 44. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-045",
+      "isbn": "978-9985-9-1045",
+      "title": "Raamat nr 45 — mikroteenuste näidis",
+      "author": "Anna Kask",
+      "priceCents": 1449,
+      "stock": 3,
+      "category": "programmeerimine",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 45. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-046",
+      "isbn": "978-9985-9-1046",
+      "title": "Raamat nr 46 — mikroteenuste näidis",
+      "author": "Peeter Puusepp",
+      "priceCents": 1459,
+      "stock": 4,
+      "category": "loodus",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 46. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-047",
+      "isbn": "978-9985-9-1047",
+      "title": "Raamat nr 47 — mikroteenuste näidis",
+      "author": "Mart Mets",
+      "priceCents": 1469,
+      "stock": 5,
+      "category": "devops",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 47. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-048",
+      "isbn": "978-9985-9-1048",
+      "title": "Raamat nr 48 — mikroteenuste näidis",
+      "author": "Kati Kuusk",
+      "priceCents": 1479,
+      "stock": 6,
+      "category": "ajalugu",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 48. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-049",
+      "isbn": "978-9985-9-1049",
+      "title": "Raamat nr 49 — mikroteenuste näidis",
+      "author": "Liis Lepp",
+      "priceCents": 1489,
+      "stock": 0,
+      "category": "fantaasia",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 49. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-050",
+      "isbn": "978-9985-9-1050",
+      "title": "Raamat nr 50 — mikroteenuste näidis",
+      "author": "Anna Kask",
+      "priceCents": 999,
+      "stock": 1,
+      "category": "programmeerimine",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 50. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-051",
+      "isbn": "978-9985-9-1051",
+      "title": "Raamat nr 51 — mikroteenuste näidis",
+      "author": "Peeter Puusepp",
+      "priceCents": 1009,
+      "stock": 2,
+      "category": "loodus",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 51. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-052",
+      "isbn": "978-9985-9-1052",
+      "title": "Raamat nr 52 — mikroteenuste näidis",
+      "author": "Mart Mets",
+      "priceCents": 1019,
+      "stock": 3,
+      "category": "devops",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 52. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-053",
+      "isbn": "978-9985-9-1053",
+      "title": "Raamat nr 53 — mikroteenuste näidis",
+      "author": "Kati Kuusk",
+      "priceCents": 1029,
+      "stock": 4,
+      "category": "ajalugu",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 53. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-054",
+      "isbn": "978-9985-9-1054",
+      "title": "Raamat nr 54 — mikroteenuste näidis",
+      "author": "Liis Lepp",
+      "priceCents": 1039,
+      "stock": 5,
+      "category": "fantaasia",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 54. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-055",
+      "isbn": "978-9985-9-1055",
+      "title": "Raamat nr 55 — mikroteenuste näidis",
+      "author": "Anna Kask",
+      "priceCents": 1049,
+      "stock": 6,
+      "category": "programmeerimine",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 55. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-056",
+      "isbn": "978-9985-9-1056",
+      "title": "Raamat nr 56 — mikroteenuste näidis",
+      "author": "Peeter Puusepp",
+      "priceCents": 1059,
+      "stock": 0,
+      "category": "loodus",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 56. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-057",
+      "isbn": "978-9985-9-1057",
+      "title": "Raamat nr 57 — mikroteenuste näidis",
+      "author": "Mart Mets",
+      "priceCents": 1069,
+      "stock": 1,
+      "category": "devops",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 57. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-058",
+      "isbn": "978-9985-9-1058",
+      "title": "Raamat nr 58 — mikroteenuste näidis",
+      "author": "Kati Kuusk",
+      "priceCents": 1079,
+      "stock": 2,
+      "category": "ajalugu",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 58. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-059",
+      "isbn": "978-9985-9-1059",
+      "title": "Raamat nr 59 — mikroteenuste näidis",
+      "author": "Liis Lepp",
+      "priceCents": 1089,
+      "stock": 3,
+      "category": "fantaasia",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 59. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-060",
+      "isbn": "978-9985-9-1060",
+      "title": "Raamat nr 60 — mikroteenuste näidis",
+      "author": "Anna Kask",
+      "priceCents": 1099,
+      "stock": 4,
+      "category": "programmeerimine",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 60. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-061",
+      "isbn": "978-9985-9-1061",
+      "title": "Raamat nr 61 — mikroteenuste näidis",
+      "author": "Peeter Puusepp",
+      "priceCents": 1109,
+      "stock": 5,
+      "category": "loodus",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 61. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-062",
+      "isbn": "978-9985-9-1062",
+      "title": "Raamat nr 62 — mikroteenuste näidis",
+      "author": "Mart Mets",
+      "priceCents": 1119,
+      "stock": 6,
+      "category": "devops",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 62. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-063",
+      "isbn": "978-9985-9-1063",
+      "title": "Raamat nr 63 — mikroteenuste näidis",
+      "author": "Kati Kuusk",
+      "priceCents": 1129,
+      "stock": 0,
+      "category": "ajalugu",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 63. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-064",
+      "isbn": "978-9985-9-1064",
+      "title": "Raamat nr 64 — mikroteenuste näidis",
+      "author": "Liis Lepp",
+      "priceCents": 1139,
+      "stock": 1,
+      "category": "fantaasia",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 64. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-065",
+      "isbn": "978-9985-9-1065",
+      "title": "Raamat nr 65 — mikroteenuste näidis",
+      "author": "Anna Kask",
+      "priceCents": 1149,
+      "stock": 2,
+      "category": "programmeerimine",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 65. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-066",
+      "isbn": "978-9985-9-1066",
+      "title": "Raamat nr 66 — mikroteenuste näidis",
+      "author": "Peeter Puusepp",
+      "priceCents": 1159,
+      "stock": 3,
+      "category": "loodus",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 66. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-067",
+      "isbn": "978-9985-9-1067",
+      "title": "Raamat nr 67 — mikroteenuste näidis",
+      "author": "Mart Mets",
+      "priceCents": 1169,
+      "stock": 4,
+      "category": "devops",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 67. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-068",
+      "isbn": "978-9985-9-1068",
+      "title": "Raamat nr 68 — mikroteenuste näidis",
+      "author": "Kati Kuusk",
+      "priceCents": 1179,
+      "stock": 5,
+      "category": "ajalugu",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 68. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-069",
+      "isbn": "978-9985-9-1069",
+      "title": "Raamat nr 69 — mikroteenuste näidis",
+      "author": "Liis Lepp",
+      "priceCents": 1189,
+      "stock": 6,
+      "category": "fantaasia",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 69. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-070",
+      "isbn": "978-9985-9-1070",
+      "title": "Raamat nr 70 — mikroteenuste näidis",
+      "author": "Anna Kask",
+      "priceCents": 1199,
+      "stock": 0,
+      "category": "programmeerimine",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 70. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-071",
+      "isbn": "978-9985-9-1071",
+      "title": "Raamat nr 71 — mikroteenuste näidis",
+      "author": "Peeter Puusepp",
+      "priceCents": 1209,
+      "stock": 1,
+      "category": "loodus",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 71. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-072",
+      "isbn": "978-9985-9-1072",
+      "title": "Raamat nr 72 — mikroteenuste näidis",
+      "author": "Mart Mets",
+      "priceCents": 1219,
+      "stock": 2,
+      "category": "devops",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 72. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-073",
+      "isbn": "978-9985-9-1073",
+      "title": "Raamat nr 73 — mikroteenuste näidis",
+      "author": "Kati Kuusk",
+      "priceCents": 1229,
+      "stock": 3,
+      "category": "ajalugu",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 73. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-074",
+      "isbn": "978-9985-9-1074",
+      "title": "Raamat nr 74 — mikroteenuste näidis",
+      "author": "Liis Lepp",
+      "priceCents": 1239,
+      "stock": 4,
+      "category": "fantaasia",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 74. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-075",
+      "isbn": "978-9985-9-1075",
+      "title": "Raamat nr 75 — mikroteenuste näidis",
+      "author": "Anna Kask",
+      "priceCents": 1249,
+      "stock": 5,
+      "category": "programmeerimine",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 75. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-076",
+      "isbn": "978-9985-9-1076",
+      "title": "Raamat nr 76 — mikroteenuste näidis",
+      "author": "Peeter Puusepp",
+      "priceCents": 1259,
+      "stock": 6,
+      "category": "loodus",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 76. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-077",
+      "isbn": "978-9985-9-1077",
+      "title": "Raamat nr 77 — mikroteenuste näidis",
+      "author": "Mart Mets",
+      "priceCents": 1269,
+      "stock": 0,
+      "category": "devops",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 77. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-078",
+      "isbn": "978-9985-9-1078",
+      "title": "Raamat nr 78 — mikroteenuste näidis",
+      "author": "Kati Kuusk",
+      "priceCents": 1279,
+      "stock": 1,
+      "category": "ajalugu",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 78. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-079",
+      "isbn": "978-9985-9-1079",
+      "title": "Raamat nr 79 — mikroteenuste näidis",
+      "author": "Liis Lepp",
+      "priceCents": 1289,
+      "stock": 2,
+      "category": "fantaasia",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 79. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-080",
+      "isbn": "978-9985-9-1080",
+      "title": "Raamat nr 80 — mikroteenuste näidis",
+      "author": "Anna Kask",
+      "priceCents": 1299,
+      "stock": 3,
+      "category": "programmeerimine",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 80. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-081",
+      "isbn": "978-9985-9-1081",
+      "title": "Raamat nr 81 — mikroteenuste näidis",
+      "author": "Peeter Puusepp",
+      "priceCents": 1309,
+      "stock": 4,
+      "category": "loodus",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 81. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-082",
+      "isbn": "978-9985-9-1082",
+      "title": "Raamat nr 82 — mikroteenuste näidis",
+      "author": "Mart Mets",
+      "priceCents": 1319,
+      "stock": 5,
+      "category": "devops",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 82. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-083",
+      "isbn": "978-9985-9-1083",
+      "title": "Raamat nr 83 — mikroteenuste näidis",
+      "author": "Kati Kuusk",
+      "priceCents": 1329,
+      "stock": 6,
+      "category": "ajalugu",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 83. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-084",
+      "isbn": "978-9985-9-1084",
+      "title": "Raamat nr 84 — mikroteenuste näidis",
+      "author": "Liis Lepp",
+      "priceCents": 1339,
+      "stock": 0,
+      "category": "fantaasia",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 84. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-085",
+      "isbn": "978-9985-9-1085",
+      "title": "Raamat nr 85 — mikroteenuste näidis",
+      "author": "Anna Kask",
+      "priceCents": 1349,
+      "stock": 1,
+      "category": "programmeerimine",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 85. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-086",
+      "isbn": "978-9985-9-1086",
+      "title": "Raamat nr 86 — mikroteenuste näidis",
+      "author": "Peeter Puusepp",
+      "priceCents": 1359,
+      "stock": 2,
+      "category": "loodus",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 86. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-087",
+      "isbn": "978-9985-9-1087",
+      "title": "Raamat nr 87 — mikroteenuste näidis",
+      "author": "Mart Mets",
+      "priceCents": 1369,
+      "stock": 3,
+      "category": "devops",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 87. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-088",
+      "isbn": "978-9985-9-1088",
+      "title": "Raamat nr 88 — mikroteenuste näidis",
+      "author": "Kati Kuusk",
+      "priceCents": 1379,
+      "stock": 4,
+      "category": "ajalugu",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 88. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-089",
+      "isbn": "978-9985-9-1089",
+      "title": "Raamat nr 89 — mikroteenuste näidis",
+      "author": "Liis Lepp",
+      "priceCents": 1389,
+      "stock": 5,
+      "category": "fantaasia",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 89. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-090",
+      "isbn": "978-9985-9-1090",
+      "title": "Raamat nr 90 — mikroteenuste näidis",
+      "author": "Anna Kask",
+      "priceCents": 1399,
+      "stock": 6,
+      "category": "programmeerimine",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 90. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-091",
+      "isbn": "978-9985-9-1091",
+      "title": "Raamat nr 91 — mikroteenuste näidis",
+      "author": "Peeter Puusepp",
+      "priceCents": 1409,
+      "stock": 0,
+      "category": "loodus",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 91. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-092",
+      "isbn": "978-9985-9-1092",
+      "title": "Raamat nr 92 — mikroteenuste näidis",
+      "author": "Mart Mets",
+      "priceCents": 1419,
+      "stock": 1,
+      "category": "devops",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 92. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-093",
+      "isbn": "978-9985-9-1093",
+      "title": "Raamat nr 93 — mikroteenuste näidis",
+      "author": "Kati Kuusk",
+      "priceCents": 1429,
+      "stock": 2,
+      "category": "ajalugu",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 93. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-094",
+      "isbn": "978-9985-9-1094",
+      "title": "Raamat nr 94 — mikroteenuste näidis",
+      "author": "Liis Lepp",
+      "priceCents": 1439,
+      "stock": 3,
+      "category": "fantaasia",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 94. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-095",
+      "isbn": "978-9985-9-1095",
+      "title": "Raamat nr 95 — mikroteenuste näidis",
+      "author": "Anna Kask",
+      "priceCents": 1449,
+      "stock": 4,
+      "category": "programmeerimine",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 95. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-096",
+      "isbn": "978-9985-9-1096",
+      "title": "Raamat nr 96 — mikroteenuste näidis",
+      "author": "Peeter Puusepp",
+      "priceCents": 1459,
+      "stock": 5,
+      "category": "loodus",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 96. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-097",
+      "isbn": "978-9985-9-1097",
+      "title": "Raamat nr 97 — mikroteenuste näidis",
+      "author": "Mart Mets",
+      "priceCents": 1469,
+      "stock": 6,
+      "category": "devops",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 97. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-098",
+      "isbn": "978-9985-9-1098",
+      "title": "Raamat nr 98 — mikroteenuste näidis",
+      "author": "Kati Kuusk",
+      "priceCents": 1479,
+      "stock": 0,
+      "category": "ajalugu",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 98. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-099",
+      "isbn": "978-9985-9-1099",
+      "title": "Raamat nr 99 — mikroteenuste näidis",
+      "author": "Liis Lepp",
+      "priceCents": 1489,
+      "stock": 1,
+      "category": "fantaasia",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 99. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-100",
+      "isbn": "978-9985-9-1100",
+      "title": "Raamat nr 100 — mikroteenuste näidis",
+      "author": "Anna Kask",
+      "priceCents": 999,
+      "stock": 2,
+      "category": "programmeerimine",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 100. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-101",
+      "isbn": "978-9985-9-1101",
+      "title": "Raamat nr 101 — mikroteenuste näidis",
+      "author": "Peeter Puusepp",
+      "priceCents": 1009,
+      "stock": 3,
+      "category": "loodus",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 101. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-102",
+      "isbn": "978-9985-9-1102",
+      "title": "Raamat nr 102 — mikroteenuste näidis",
+      "author": "Mart Mets",
+      "priceCents": 1019,
+      "stock": 4,
+      "category": "devops",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 102. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-103",
+      "isbn": "978-9985-9-1103",
+      "title": "Raamat nr 103 — mikroteenuste näidis",
+      "author": "Kati Kuusk",
+      "priceCents": 1029,
+      "stock": 5,
+      "category": "ajalugu",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 103. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-104",
+      "isbn": "978-9985-9-1104",
+      "title": "Raamat nr 104 — mikroteenuste näidis",
+      "author": "Liis Lepp",
+      "priceCents": 1039,
+      "stock": 6,
+      "category": "fantaasia",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 104. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-105",
+      "isbn": "978-9985-9-1105",
+      "title": "Raamat nr 105 — mikroteenuste näidis",
+      "author": "Anna Kask",
+      "priceCents": 1049,
+      "stock": 0,
+      "category": "programmeerimine",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 105. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-106",
+      "isbn": "978-9985-9-1106",
+      "title": "Raamat nr 106 — mikroteenuste näidis",
+      "author": "Peeter Puusepp",
+      "priceCents": 1059,
+      "stock": 1,
+      "category": "loodus",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 106. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-107",
+      "isbn": "978-9985-9-1107",
+      "title": "Raamat nr 107 — mikroteenuste näidis",
+      "author": "Mart Mets",
+      "priceCents": 1069,
+      "stock": 2,
+      "category": "devops",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 107. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-108",
+      "isbn": "978-9985-9-1108",
+      "title": "Raamat nr 108 — mikroteenuste näidis",
+      "author": "Kati Kuusk",
+      "priceCents": 1079,
+      "stock": 3,
+      "category": "ajalugu",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 108. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-109",
+      "isbn": "978-9985-9-1109",
+      "title": "Raamat nr 109 — mikroteenuste näidis",
+      "author": "Liis Lepp",
+      "priceCents": 1089,
+      "stock": 4,
+      "category": "fantaasia",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 109. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-110",
+      "isbn": "978-9985-9-1110",
+      "title": "Raamat nr 110 — mikroteenuste näidis",
+      "author": "Anna Kask",
+      "priceCents": 1099,
+      "stock": 5,
+      "category": "programmeerimine",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 110. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-111",
+      "isbn": "978-9985-9-1111",
+      "title": "Raamat nr 111 — mikroteenuste näidis",
+      "author": "Peeter Puusepp",
+      "priceCents": 1109,
+      "stock": 6,
+      "category": "loodus",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 111. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-112",
+      "isbn": "978-9985-9-1112",
+      "title": "Raamat nr 112 — mikroteenuste näidis",
+      "author": "Mart Mets",
+      "priceCents": 1119,
+      "stock": 0,
+      "category": "devops",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 112. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-113",
+      "isbn": "978-9985-9-1113",
+      "title": "Raamat nr 113 — mikroteenuste näidis",
+      "author": "Kati Kuusk",
+      "priceCents": 1129,
+      "stock": 1,
+      "category": "ajalugu",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 113. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-114",
+      "isbn": "978-9985-9-1114",
+      "title": "Raamat nr 114 — mikroteenuste näidis",
+      "author": "Liis Lepp",
+      "priceCents": 1139,
+      "stock": 2,
+      "category": "fantaasia",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 114. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-115",
+      "isbn": "978-9985-9-1115",
+      "title": "Raamat nr 115 — mikroteenuste näidis",
+      "author": "Anna Kask",
+      "priceCents": 1149,
+      "stock": 3,
+      "category": "programmeerimine",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 115. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-116",
+      "isbn": "978-9985-9-1116",
+      "title": "Raamat nr 116 — mikroteenuste näidis",
+      "author": "Peeter Puusepp",
+      "priceCents": 1159,
+      "stock": 4,
+      "category": "loodus",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 116. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-117",
+      "isbn": "978-9985-9-1117",
+      "title": "Raamat nr 117 — mikroteenuste näidis",
+      "author": "Mart Mets",
+      "priceCents": 1169,
+      "stock": 5,
+      "category": "devops",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 117. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-118",
+      "isbn": "978-9985-9-1118",
+      "title": "Raamat nr 118 — mikroteenuste näidis",
+      "author": "Kati Kuusk",
+      "priceCents": 1179,
+      "stock": 6,
+      "category": "ajalugu",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 118. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-119",
+      "isbn": "978-9985-9-1119",
+      "title": "Raamat nr 119 — mikroteenuste näidis",
+      "author": "Liis Lepp",
+      "priceCents": 1189,
+      "stock": 0,
+      "category": "fantaasia",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 119. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    },
+    {
+      "id": "book-ext-120",
+      "isbn": "978-9985-9-1120",
+      "title": "Raamat nr 120 — mikroteenuste näidis",
+      "author": "Anna Kask",
+      "priceCents": 1199,
+      "stock": 1,
+      "category": "programmeerimine",
+      "tags": [
+        "demo",
+        "catalog",
+        "seed"
+      ],
+      "description": "Pikk kirjeldus raamatule 120. See rida on osa kunstlikult suurendatud koodibaasist, et õpilased harjuksid otsima infot paljude failide seast."
+    }
+  ]
+}
